@@ -1,7 +1,4 @@
 
-#! /usr/bin/env python3
-
-
 """
 It also responds to DCC CHAT invitations and echos data sent in such
 sessions.
